@@ -10,4 +10,5 @@
 🍪 Fun facts - what is your team's favorite snack?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
-std::string part1 = "flag{Welcome";
+
+`std::string part1 = "flag{Welcome";`
